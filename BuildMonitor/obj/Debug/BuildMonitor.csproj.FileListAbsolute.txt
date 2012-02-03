@@ -1,0 +1,90 @@
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.exe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.pdb
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pe
+C:\Users\Filip\documents\visual studio 2010\Projects\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.exe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.exe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.exe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.exe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.pdb
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pe
+C:\Users\Filip\Documents\My Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.exe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.exe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdb
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdb
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.exe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BuildMonitor.pdb
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\be\BuildMonitor.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\le\BuildMonitor.pdbx
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.exe
+C:\Users\Filip\Dropbox\Netduino\BuildMonitor\BuildMonitor\obj\Debug\BuildMonitor.pdb
